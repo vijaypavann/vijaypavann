@@ -1,0 +1,8 @@
+title: Apache Spark 
+description: DataFrame, Dataset and Spark SQL API's
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+github:
+  zip_url: http://example.com/download.zip
+  repository_url: https://vijaypavann.github.io/apache-spark
