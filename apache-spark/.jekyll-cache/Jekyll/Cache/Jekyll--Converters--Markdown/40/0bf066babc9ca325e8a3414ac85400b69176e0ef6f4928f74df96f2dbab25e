@@ -1,71 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup theme-color -->
-<!-- start theme color meta headers -->
-<meta name="theme-color" content="#151515">
-<meta name="msapplication-navbutton-color" content="#151515">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<!-- end theme color meta headers -->
-
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Apache Spark | DataFrame, Dataset and Spark SQL API’s</title>
-<meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Apache Spark" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="DataFrame, Dataset and Spark SQL API’s" />
-<meta property="og:description" content="DataFrame, Dataset and Spark SQL API’s" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Apache Spark" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Apache Spark" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"DataFrame, Dataset and Spark SQL API’s","headline":"Apache Spark","name":"Apache Spark","url":"http://localhost:4000/"}</script>
-<!-- End Jekyll SEO tag -->
-
-  </head>
-
-  <body>
-
-    <header>
-      <div class="container">
-        <a id="a-title" href="/">
-          <h1>Apache Spark</h1>
-        </a>
-        <h2>DataFrame, Dataset and Spark SQL API's</h2>
-
-        <section id="downloads">
-          
-            <a href="http://example.com/download.zip" class="btn">Download as .zip</a>
-            <a href="" class="btn">Download as .tar.gz</a>
-          
-          <a href="https://vijaypavann.github.io/apache-spark" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
+I"P<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code>.</p>
 
 <p><a href="./another-page.html">Link to another page</a>.</p>
 
@@ -228,8 +161,4 @@
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
-
-      </section>
-    </div>
-  </body>
-</html>
+:ET
