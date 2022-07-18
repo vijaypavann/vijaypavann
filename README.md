@@ -18,7 +18,7 @@
 
 ## Authors
 
-- **Anil Seervi** - [https://github.com/vijaypavann](https://github.com/vijaypavann)
+- **Vijay Pavan N** - [https://github.com/vijaypavann](https://github.com/vijaypavann)
 
 ## License 📄
 
